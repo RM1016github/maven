@@ -1,1 +1,1 @@
-Hello, World This is a continuous build integration!
+Hello, World This is a continuous build integration NEW!
